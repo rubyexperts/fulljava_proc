@@ -1,0 +1,25 @@
+OK, here is everything you'll need to do this project. 
+
+Please open and read through the two files in the READ-FIRST.zip. One files explains the system and the other is a list of the updates/changes/improvements I need done by you.
+
+You'll have to set up a development environment on your system to do this. For a proxy, I think I will have to list your IP address with my partner Ticket Network in order for them to open up their web services and allow you to download a fresh copy of the database from them for you to work with.
+
+You ought to take your time reading through all this and to figure out what the old developer was doing. I have a feeling the code is not easy to read nor is it that great, but I really just want you to figure it out and work with what is there to make the needed changes/updates.
+
+Here are what all the zip files are:
+
+jdata3-1.zip - the database updater software
+data-grids.zip - the code used to create the html tables (the grids I showed you when we were on the phone) - there is one per site
+jdata-servers-setup.pdf - the sketch I made of the flow of the data
+page creator.zip - the software that makes the pages - this is where you will spend most of your time
+templates.zip - three examples of templates I use to make pages with
+TicketNetworkDocumentation.zip - the docs from my partner Ticket Network, which explains the web services and how their end of the system works
+typicalPageCreationProject.zip - this is an example of one way in which I use the software, which files i need to touch and configure in order to get it to work, and how I get it to make pages for me
+
+
+Please go through everything. If you have questions, email me, or we can set up a time today or tomorrow to go over this on the phone/Skype if you want. 
+
+Give me an idea how long it will take you to do all the things I have listed that I need done,  I need this done as quickly as possible. 
+If we can agree that you'll do this then we ought to consider signing a contract for the whole project. You'll need to create a dev environment and maybe you could do only one change to begin with, like adding in a new keyword variable, and then send me the whole thing for me to try on my local machine to see if you did it right. Then, if it works, you could go ahead with the rest of the edits.
+
+I look forward to hearing back from you.
